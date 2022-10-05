@@ -27,7 +27,7 @@ const SplashScreen = () => {
           marginRight: 16,
         }}
       >
-        <h2>{t('James Bond')}</h2>
+        <h2>{t('5 keer x')}</h2>
       </div>
       <img
         // @ts-ignore
