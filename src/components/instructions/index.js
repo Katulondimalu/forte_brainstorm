@@ -26,7 +26,7 @@ const Instructions = ({ onNext }) => {
       <Whitespace height={16} />
       <InstructionHeader>Start Instructies</InstructionHeader>
       <InstructionContent>
-        Je gaat je  James Bond zoeken door samen met je team een aantal inventieve puzzels op te lossen. 
+        Je gaat je 5 keer x zoeken door samen met je team een aantal inventieve puzzels op te lossen. 
         Daarvoor heb ik een aantal stappen om je op weg te helpen.
         </InstructionContent>
       <div
@@ -58,7 +58,7 @@ const Instructions = ({ onNext }) => {
         <InstructionStep>Stap 4.</InstructionStep>
         <InstructionContent>
         Forceer niks, hou alles goed bij elkaar en speel goed samen. Dan ben je een stap dichter bij 
-        het redden van James Bond.
+        het redden van 5 keer x.
         </InstructionContent>
         <InstructionContent>
           <img src={assets.images.common?.StartInstruction} alt='' />
