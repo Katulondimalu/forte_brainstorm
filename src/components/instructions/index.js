@@ -26,8 +26,7 @@ const Instructions = ({ onNext }) => {
       <Whitespace height={16} />
       <InstructionHeader>Start Instructies</InstructionHeader>
       <InstructionContent>
-        Je gaat je 5 keer x zoeken door samen met je team een aantal inventieve puzzels op te lossen. 
-        Daarvoor heb ik een aantal stappen om je op weg te helpen.
+     Jullie gaan aan de slag met de pedagogische visie van Forte. Het volgende ga je de komende 80 minuten doen. 
         </InstructionContent>
       <div
         style={{
@@ -42,8 +41,7 @@ const Instructions = ({ onNext }) => {
         }}
       >
         <InstructionStep>Stap 1.</InstructionStep>
-        <InstructionContent>Luister goed naar de host. Deze zal gezamenlijk het spel 
-          starten. Ga nog niet verder met de volgende stap, want bij de volgende stap begint de tijd te lopen.</InstructionContent>
+        <InstructionContent>Luister goed naar de gesproken berichten, maak desnoods aantekeningen. Deze geven je richting in de game. Ga nog niet verder met de volgende stap, want bij de volgende stap begint de tijd te lopen.</InstructionContent>
         <InstructionStep>Stap 2.</InstructionStep>
         <InstructionContent>
         Elk team heeft één teamcaptain. Deze houdt de telefoon vast en zorgt ervoor dat iedereen 
@@ -57,8 +55,8 @@ const Instructions = ({ onNext }) => {
         </InstructionContent>
         <InstructionStep>Stap 4.</InstructionStep>
         <InstructionContent>
-        Forceer niks, hou alles goed bij elkaar en speel goed samen. Dan ben je een stap dichter bij 
-        het redden van 5 keer x.
+        Speel goed samen. Dan ben je een stap dichter bij 
+        het brengen van de 5 keer x naar een goed einde.
         </InstructionContent>
         <InstructionContent>
           <img src={assets.images.common?.StartInstruction} alt='' />
