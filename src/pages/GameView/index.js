@@ -315,6 +315,7 @@ const GameView = () => {
               }}
               url={t('gameeindeVideoUrl')}
             />
+            
           )}
           {step === 15 && (
             <TopScore RoomContext={RoomContext} to='../end/leader-board' />
