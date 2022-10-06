@@ -173,22 +173,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F001.mp3?alt=media&token=363a5685-49cc-4366-a39e-297a4646cea5',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%200.mp3?alt=media&token=01c226ca-e4e6-44ec-9aa8-8b3a42e01de5',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F002.mp3?alt=media&token=0554cf59-5681-452a-be5a-3933a4736ac4',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%201.mp3?alt=media&token=b15f16a5-f2de-4fd9-ac46-fadc8f3c2976',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F003.mp3?alt=media&token=13c8f2d5-5b71-420c-b915-e487122a720a',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%202.mp3?alt=media&token=0cb35109-6e0f-4bdd-8825-aa8835bee741',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F004.mp3?alt=media&token=20608d5c-7664-42ac-898d-ea9a39e380e0',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%203.mp3?alt=media&token=5c87606f-afe2-4276-bde9-e6ac891058b6',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F005.mp3?alt=media&token=f48fcf65-885f-426d-9582-9410fcfd8a14',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%204.mp3?alt=media&token=1358bd2d-1e57-4331-aad0-9852a3bcbde5',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F006.mp3?alt=media&token=feda7486-40c5-4501-a7de-fc581f185597',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%205.mp3?alt=media&token=e5563b35-cc6f-42a0-aa5f-3c71898f1164',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
