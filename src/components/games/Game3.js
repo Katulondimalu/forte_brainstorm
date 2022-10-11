@@ -86,9 +86,7 @@ const Game3 = ({ onNext }) => {
           {t('Video')}
         </button>
         <div style={{ width: 16 }} />
-        <button onClick={() => dialog_1.current.showModal()}>
-          {t('Hints')}
-        </button>
+        
       </div>
     </div>
   );
