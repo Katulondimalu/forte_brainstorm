@@ -48,7 +48,7 @@ const TopScore = ({ to, RoomContext }) => {
         </span>
         
       )}<span>
-        😃 Jullie hebben zijn door de game heen. Dat is een hele 
+        😃 Jullie zijn door de game heen. Dat is een hele 
           prestatie want jullie hebben wat meer zicht op de koers 
           van het schip🚢 Ga nu met elkaar in gesprek om de koers 
           ook helemaal vast te leggen voor jullie vestiging. Besluit wat 
