@@ -47,16 +47,7 @@ const TopScore = ({ to, RoomContext }) => {
           {t('penalty for using hints!')}
         </span>
         
-      )}<span>
-        😃 Jullie zijn door de game heen. Dat is een hele 
-          prestatie want jullie hebben wat meer zicht op de koers 
-          van het schip🚢 Ga nu met elkaar in gesprek om de koers 
-          ook helemaal vast te leggen voor jullie vestiging. Besluit wat 
-          de vier themas zijn uit de pedagogische visie waarmee jullie 
-          gezamenlijk in 2023 aan de slag gaan. En bedenk ook hoe je dit 
-          gaat borgen, want zonder routines, geen vooruitgang. Een klein 
-          adviesje: begin simpel, bijvoorbeeld met 5 minuten per dag.
-          </span>
+      )}
       <button
         style={{ position: 'absolute', bottom: 20, left: 0 }}
         onClick={() => navigate(to)}

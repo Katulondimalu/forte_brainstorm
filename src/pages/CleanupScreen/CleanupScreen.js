@@ -16,41 +16,18 @@ const CleanupScreen = ({ to }) => {
       <div style={{ margin: 16 }}>
         <Titlebar>{t('Cleanup Instructions')}</Titlebar>
         <Whitespace height={16} />
-        <div
-          style={{
-            display: 'grid',
-            gap: 16,
-            gridTemplate: `
-            "a"
-            "b"
-            "c"
-            "d"
-            "e"
-            "f"
-            "g"
-            "h"
-            / 1fr
-          `,
-          }}
-        >
-          {assets.images.cleanups?.map((icon, i) => (
-            <div key={i}>
-              <img
-                src={icon}
-                style={{
-                  width: '100%',
-                  objectFit: 'contain',
-                  borderRadius: 10,
-                }}
-                alt='icon'
-              />
-              <div style={{ width: '100%', objectFit: 'contain' }}>
-                {t('CleanUpText1')}
-                <p>&nbsp;</p>
-              </div>
-            </div>
-          ))}
-        </div>
+       
+        <span>
+        😃 Jullie zijn door de game heen. Dat is een hele 
+          prestatie want jullie hebben wat meer zicht op de koers 
+          van het schip🚢 Ga nu met elkaar in gesprek om de koers 
+          ook helemaal vast te leggen voor jullie vestiging. Besluit wat 
+          de vier themas zijn uit de pedagogische visie waarmee jullie 
+          gezamenlijk in 2023 aan de slag gaan. En bedenk ook hoe je dit 
+          gaat borgen, want zonder routines, geen vooruitgang. Een klein 
+          adviesje: begin simpel, bijvoorbeeld met 5 minuten per dag.
+          </span>
+          
         <Whitespace height={16} />
         {to && (
           <button

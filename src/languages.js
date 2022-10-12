@@ -136,7 +136,7 @@ export let translations = {
     nl: 'De code van het volgende vak is:',
   },
   'Cleanup Instructions': {
-    nl: 'Opruim instructies:',
+    nl: 'Herhaling laatste boodschap',
   },
   CleanUpText1: {
     nl: 'Leg de puzzels terug in de GamifiCase en breng de case terug naar de service balie',
