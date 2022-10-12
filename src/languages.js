@@ -191,7 +191,7 @@ export let translations = {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%205.mp3?alt=media&token=e5563b35-cc6f-42a0-aa5f-3c71898f1164',
   },
   gameeindeVideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FREC%204.mp3?alt=media&token=1358bd2d-1e57-4331-aad0-9852a3bcbde5',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Forte%205%20keer%20x%2FHELDENINC-REC3.mp3?alt=media&token=88a26207-f649-49a2-b8a9-167af36f7368',
   },
   'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Filmpjes%20Engels%2FSpel%205%20-%20ondertiteld%20-%20Engels.mp4?alt=media&token=f88703aa-d7e2-4a3c-8a01-2a0bf6a9345b':
     {
